@@ -1,0 +1,12 @@
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\bin\Debug\DTO_SinhVien.dll
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\bin\Debug\DTO_SinhVien.pdb
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.csproj.AssemblyReference.cache
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.csproj.CoreCompileInputs.cache
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.dll
+D:\hvtuan_lt_NET_nhom3_ca1\Buoi2\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.pdb
+D:\C#\TH\Test_3_layer\DTO_SinhVien\bin\Debug\DTO_SinhVien.dll
+D:\C#\TH\Test_3_layer\DTO_SinhVien\bin\Debug\DTO_SinhVien.pdb
+D:\C#\TH\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.csproj.AssemblyReference.cache
+D:\C#\TH\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.csproj.CoreCompileInputs.cache
+D:\C#\TH\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.dll
+D:\C#\TH\Test_3_layer\DTO_SinhVien\obj\Debug\DTO_SinhVien.pdb
